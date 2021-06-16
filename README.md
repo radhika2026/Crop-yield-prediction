@@ -39,3 +39,8 @@ Regression Analysis and Classification Analysis were both applied on this data s
 ![image](https://user-images.githubusercontent.com/72796509/122201922-28485500-ceba-11eb-9b1a-33747b2a34c6.png)
 ### 4. Comparision of various techniques:
 ![image](https://user-images.githubusercontent.com/72796509/122202145-5f1e6b00-ceba-11eb-98ff-aadae513833d.png)
+
+## Contributor:
+[Radhika Gupta](https://github.com/radhika2026)
+[MK Sami](https://github.com/mksami22)
+
